@@ -1,4 +1,4 @@
-*/
+/*
 //mainxaml
 <Window x:Class="DEMO1.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -455,4 +455,3 @@ namespace DEMO1
         }
     }
 }
-*/
